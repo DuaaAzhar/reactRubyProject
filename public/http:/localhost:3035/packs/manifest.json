@@ -1,0 +1,38 @@
+{
+  "32dc21bc56737234be69.module.wasm": "/http://localhost:3035/packs/32dc21bc56737234be69.module.wasm",
+  "a552dec0c5302a82c715.module.wasm": "/http://localhost:3035/packs/a552dec0c5302a82c715.module.wasm",
+  "application.js": "/http://localhost:3035/packs/js/application.js",
+  "entrypoints": {
+    "application": {
+      "assets": {
+        "js": [
+          "/http://localhost:3035/packs/js/runtime.js",
+          "/http://localhost:3035/packs/js/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-95065b.js",
+          "/http://localhost:3035/packs/js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js",
+          "/http://localhost:3035/packs/js/application.js"
+        ]
+      }
+    },
+    "index": {
+      "assets": {
+        "js": [
+          "/http://localhost:3035/packs/js/runtime.js",
+          "/http://localhost:3035/packs/js/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-95065b.js",
+          "/http://localhost:3035/packs/js/vendors-node_modules_react-dom_index_js-node_modules_meshsdk_react_dist_react_js.js",
+          "/http://localhost:3035/packs/js/index.js"
+        ]
+      }
+    }
+  },
+  "index.js": "/http://localhost:3035/packs/js/index.js",
+  "js/application.js.map": "/http://localhost:3035/packs/js/application.js.map",
+  "js/index.js.map": "/http://localhost:3035/packs/js/index.js.map",
+  "js/runtime.js.map": "/http://localhost:3035/packs/js/runtime.js.map",
+  "js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js": "/http://localhost:3035/packs/js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js",
+  "js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js.map": "/http://localhost:3035/packs/js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-8bd44b.js.map",
+  "js/vendors-node_modules_react-dom_index_js-node_modules_meshsdk_react_dist_react_js.js": "/http://localhost:3035/packs/js/vendors-node_modules_react-dom_index_js-node_modules_meshsdk_react_dist_react_js.js",
+  "js/vendors-node_modules_react-dom_index_js-node_modules_meshsdk_react_dist_react_js.js.map": "/http://localhost:3035/packs/js/vendors-node_modules_react-dom_index_js-node_modules_meshsdk_react_dist_react_js.js.map",
+  "js/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-95065b.js": "/http://localhost:3035/packs/js/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-95065b.js",
+  "js/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-95065b.js.map": "/http://localhost:3035/packs/js/vendors-node_modules_webpack-dev-server_client_index_js_protocol_ws_3A_hostname_localhost_por-95065b.js.map",
+  "runtime.js": "/http://localhost:3035/packs/js/runtime.js"
+}
